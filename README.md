@@ -3,7 +3,6 @@
 
 
 
-
 # NVIDIA Jetson Nano Developer Kit
 
 ![Image](https://images.openai.com/static-rsc-4/KSv9hJ2UlEDSRfn_UlEbysMhhX0a_3WBYQySd--wLk1sAaxWUAllgC64k60y6APFti6S2CJKsYiMtZRN21s7DY9b33tTgwjObMcNJyMCsSmx3zE_WVXnxmgBWBOWkQ3UL26YrM7GmYXOgSC-pso2HEh-CgTdZs0nPCe8OSiubyzCZ6j9z5Ah2pVuNwDVbCuP?purpose=fullsize)
